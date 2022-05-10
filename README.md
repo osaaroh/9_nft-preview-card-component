@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Demo](https://peppy-bubblegum-f87f78.netlify.app)
+- Live Site URL: [Live Demo](https://nft-card-component-o.netlify.app)
 
 ## My process
 
